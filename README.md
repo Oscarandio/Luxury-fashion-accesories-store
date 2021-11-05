@@ -10,9 +10,9 @@ This is an online store using HTML, SASS and some Javascript for the sliders and
 
 The store make use of the queries on css in order to be responsive for mobiles, tables and desktop. You can see this in the next pictures:
 
-![Thumbnail](https://raw.githubusercontent.com/Oscarandio/Luxury-fashion-accesories-store/main/images/desktop2.jpg)
-
 ![Thumbnail](https://raw.githubusercontent.com/Oscarandio/Luxury-fashion-accesories-store/main/images/mobile2.jpg)
+
+![Thumbnail](https://raw.githubusercontent.com/Oscarandio/Luxury-fashion-accesories-store/main/images/desktop2.jpg)
 
 ![Thumbnail](https://raw.githubusercontent.com/Oscarandio/Luxury-fashion-accesories-store/main/images/mobile.jpg)
 
