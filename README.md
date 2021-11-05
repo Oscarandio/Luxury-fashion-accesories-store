@@ -12,6 +12,8 @@ The store make use of the queries on css in order to be responsive for mobiles, 
 
 ![Thumbnail](https://raw.githubusercontent.com/Oscarandio/Luxury-fashion-accesories-store/main/images/desktop2.jpg)
 
+![Thumbnail](https://raw.githubusercontent.com/Oscarandio/Luxury-fashion-accesories-store/main/images/mobile2.jpg)
+
 ![Thumbnail](https://raw.githubusercontent.com/Oscarandio/Luxury-fashion-accesories-store/main/images/mobile.jpg)
 
 
