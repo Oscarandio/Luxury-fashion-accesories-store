@@ -4,7 +4,7 @@ This is an online store using HTML, SASS and some Javascript for the sliders and
 
 [You can see this online store here](https://oscarandio.github.io/Luxury-fashion-accesories-store/)
 
-![Thumbnail](https://raw.githubusercontent.com/Oscarandio/Luxury-fashion-accesories-store/main/images/thumbnail.jpg)
+![Thumbnail](https://raw.githubusercontent.com/Oscarandio/Luxury-fashion-accesories-store/main/images/main.jpg)
 
 # Responsive design
 
