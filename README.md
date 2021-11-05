@@ -22,6 +22,8 @@ The store make use of the queries on css in order to be responsive for mobiles, 
 - Fix a problem with the hover in the banners in the SCSS archive.
 - Make the footer responsive too.
 - Add some more content to the store.
+- Add more testimonials with another slider.
+- Re-design the menu.
 
 ![Thumbnail](https://raw.githubusercontent.com/Oscarandio/Luxury-fashion-accesories-store/main/images/desktop.jpg)
 
