@@ -1,23 +1,27 @@
 # Description
 
-This weather app has the peculiarity of show background pictures related with the city you search. If you search Barcelona city, you will see a background picture related to this city. 
+This is an online store using HTML, SASS and some Javascript for the sliders and the menu. The design is responsive for mobiles, tables and desktop sizes. 
 
-![Thumbnail](https://raw.githubusercontent.com/Oscarandio/Aplicacion-del-tiempo/main/public/weather-app-barcelona.jpg)
+[You can see this online store here](https://oscarandio.github.io/Luxury-fashion-accesories-store/)
 
-The app use HTML, CSS and Javascript. The JS code made use of Fetch to call the weather API in order to be able to get the data required. It also made use of querySelector and addEventListener, among others.
+![Thumbnail](https://raw.githubusercontent.com/Oscarandio/Luxury-fashion-accesories-store/main/images/thumbnail.jpg)
 
-It also made use of geolocalization, detecting the ubication of the client and showing this as a first result before searching a city. However, this feauture is not working anymore on Google Chrome due to some incompatibility. But you can still see this working on Firefox. (I will try to fix it for Google Chrome in the next updates).
+# Responsive design
 
-[You can see the app working here](https://oscarandio.github.io/Aplicacion-del-tiempo/)
+The store make use of the queries on css in order to be responsive for mobiles, tables and desktop. You can see this in the next pictures:
 
-![Thumbnail](https://raw.githubusercontent.com/Oscarandio/Aplicacion-del-tiempo/main/public/weather-app-tokyo.jpg)
+![Thumbnail](https://raw.githubusercontent.com/Oscarandio/Luxury-fashion-accesories-store/main/images/mobile.jpg)
 
+![Thumbnail](https://raw.githubusercontent.com/Oscarandio/Luxury-fashion-accesories-store/main/images/desktop.jpg)
 
 ## Next Updates
 
-- Some features can be added in the next updates, like a clock and some other weather information (precipitation).
-- A few improvings in the design are possible, like coloring the temperature number.
-- Show the temperature number without decimals.
-- Fix the geolocalization for Google Chrome.
+- Since this was first made with CSS, the Sass is not complete and needs to be fixed in order to make the style easier to read and update.
+- Upload the pictures.
+- Fix a problem with the hover in the banners in the SCSS archive.
+- Make the footer responsive too.
+- Add some more content to the store.
 
-![Thumbnail](https://raw.githubusercontent.com/Oscarandio/Aplicacion-del-tiempo/main/public/weather-app-madrid.jpg)
+![Thumbnail](https://raw.githubusercontent.com/Oscarandio/Luxury-fashion-accesories-store/main/images/desktop2.jpg)
+
+
