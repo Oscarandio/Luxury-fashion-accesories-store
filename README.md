@@ -16,16 +16,18 @@ The store make use of the queries on css in order to be responsive for mobiles, 
 
 ![Thumbnail](https://raw.githubusercontent.com/Oscarandio/Luxury-fashion-accesories-store/main/images/mobile.jpg)
 
+## Last Updates
+
+- Fixed a problem with the hover in the banners in the SCSS archive.
+- New styles for the menu and others.
 
 ## Next Updates
 
 - Since this was first made with CSS, the Sass is not complete and needs to be fixed in order to make the style easier to read and update.
 - Upload the pictures.
-- Fix a problem with the hover in the banners in the SCSS archive.
 - Make the footer responsive too.
 - Add some more content to the store.
 - Add more testimonials with another slider.
-- Re-design the menu.
 
 ![Thumbnail](https://raw.githubusercontent.com/Oscarandio/Luxury-fashion-accesories-store/main/images/desktop.jpg)
 
